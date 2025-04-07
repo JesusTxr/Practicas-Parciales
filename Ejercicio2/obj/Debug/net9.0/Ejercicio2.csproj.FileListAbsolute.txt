@@ -1,0 +1,14 @@
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\bin\Debug\net9.0\Ejercicio2.exe
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\bin\Debug\net9.0\Ejercicio2.deps.json
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\bin\Debug\net9.0\Ejercicio2.runtimeconfig.json
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\bin\Debug\net9.0\Ejercicio2.dll
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\bin\Debug\net9.0\Ejercicio2.pdb
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\Ejercicio2.dll
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\refint\Ejercicio2.dll
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\Ejercicio2.pdb
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\chuch\OneDrive\Documentos\Parcial1\Ejercicio2\obj\Debug\net9.0\ref\Ejercicio2.dll
